@@ -34,7 +34,7 @@ Each week I create sketches covering key Computer Vision concepts. If you want t
 
 <br>
 
-![title](https://i.imgur.com/cf4UyDs.png)
+![title](https://i.imgur.com/gbhmVy9.png)
 
 <details close>
 <summary>👆 click to read code snippet</summary>
@@ -57,7 +57,7 @@ def box_iou_batch(boxes_a: np.ndarray, boxes_b: np.ndarray) -> np.ndarray:
 
 </details>
 
-![title](https://i.imgur.com/6jmAmlX.jpg)
+![title](https://i.imgur.com/o4CELyL.jpg)
 
 <details close>
 <summary>👆 click to read code snippet</summary>
@@ -87,3 +87,5 @@ def non_max_suppression(predictions: np.ndarray, iou_threshold: float = 0.5) -> 
 ```
 
 </details>
+
+![title](https://i.imgur.com/Edw9ozs.png)
