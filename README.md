@@ -88,4 +88,4 @@ def non_max_suppression(predictions: np.ndarray, iou_threshold: float = 0.5) -> 
 
 </details>
 
-![title](https://i.imgur.com/Edw9ozs.png)
+![title](https://i.imgur.com/Ixiv5do.png)
